@@ -1,6 +1,6 @@
 {
-  "homepage": "/",
-  "name": "stackular-react",
+  "homepage": ".",
+  "name": "stackular-dark",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
