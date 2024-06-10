@@ -1,6 +1,6 @@
 {
   "homepage": ".",
-  "name": "stackular-dark",
+  "name": "stackular-netlify",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
